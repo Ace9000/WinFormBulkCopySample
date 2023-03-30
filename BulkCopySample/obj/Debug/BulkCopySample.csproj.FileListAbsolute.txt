@@ -1,0 +1,11 @@
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\bin\Debug\BulkCopySample.exe.config
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\bin\Debug\BulkCopySample.exe
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\bin\Debug\BulkCopySample.pdb
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\obj\Debug\BulkCopySample.csproj.AssemblyReference.cache
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\obj\Debug\BulkCopySample.csproj.SuggestedBindingRedirects.cache
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\obj\Debug\BulkCopySample.Form1.resources
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\obj\Debug\BulkCopySample.Properties.Resources.resources
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\obj\Debug\BulkCopySample.csproj.GenerateResource.cache
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\obj\Debug\BulkCopySample.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\obj\Debug\BulkCopySample.exe
+C:\Users\anast\OneDrive\Desktop\C#\2022\WinForm\BulkCopySample\obj\Debug\BulkCopySample.pdb
